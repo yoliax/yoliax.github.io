@@ -1,3 +1,3 @@
 # 算法笔记
 
-## [大模型](LLM/README.md)
+## [大模型](LLMs/README.md)
